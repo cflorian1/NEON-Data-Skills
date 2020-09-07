@@ -1,4 +1,4 @@
-.DS_Store
+gi.DS_Store
 *.sublime-project
 *.sublime-workspace
 codekit-config.json
@@ -94,3 +94,5 @@ ENV/
 .spyderproject
 # Rope project settings
 .ropeproject
+.Rproj.user
+.gitignore
